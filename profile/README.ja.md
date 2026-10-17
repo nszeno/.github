@@ -4,11 +4,11 @@
 
 [English](README.md) | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | **日本語** | [한국어](README.ko.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-## SOCKS5 プロキシ
+## ネットワークプロキシ
 
 リモートデバイスを経由して、そのネットワークにアクセス。
 
-![Zeno SOCKS5 プロキシ：リモートデバイス経由でネットワークにアクセス](assets/proxy.png)
+![Zeno ネットワークプロキシ：リモートデバイス経由でネットワークにアクセス](assets/proxy.png)
 
 ## ポート転送
 

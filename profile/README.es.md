@@ -4,11 +4,11 @@
 
 [English](README.md) | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | **Español** | [Русский](README.ru.md)
 
-## Proxy SOCKS5
+## Proxy de red
 
 Accede a la red de un dispositivo remoto a través de él.
 
-![Proxy SOCKS5 de Zeno: acceso a la red a través de un dispositivo remoto](assets/proxy.png)
+![Proxy de red de Zeno: acceso a la red a través de un dispositivo remoto](assets/proxy.png)
 
 ## Reenvío de puertos
 

@@ -4,11 +4,11 @@
 
 **English** | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-## SOCKS5 Proxy
+## Network Proxy
 
 Access a remote device’s network through that device.
 
-![Zeno SOCKS5 Proxy: access a network through a remote device](assets/proxy.png)
+![Zeno Network Proxy: access a network through a remote device](assets/proxy.png)
 
 ## Port Forwarding
 

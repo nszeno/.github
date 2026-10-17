@@ -4,11 +4,11 @@
 
 [English](README.md) | [简体中文](README.zh-hans.md) | **繁體中文** | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-## SOCKS5 代理
+## 網路代理
 
 透過遠端裝置，存取它所在的網路。
 
-![Zeno SOCKS5 代理：透過遠端裝置存取網路](assets/proxy.png)
+![Zeno 網路代理：透過遠端裝置存取網路](assets/proxy.png)
 
 ## 連接埠轉發
 

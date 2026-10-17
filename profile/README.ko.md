@@ -4,11 +4,11 @@
 
 [English](README.md) | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | **한국어** | [Español](README.es.md) | [Русский](README.ru.md)
 
-## SOCKS5 프록시
+## 네트워크 프록시
 
 원격 기기를 통해 해당 기기의 네트워크에 접근하세요.
 
-![Zeno SOCKS5 프록시: 원격 기기를 통해 네트워크에 접근](assets/proxy.png)
+![Zeno 네트워크 프록시: 원격 기기를 통해 네트워크에 접근](assets/proxy.png)
 
 ## 포트 포워딩
 

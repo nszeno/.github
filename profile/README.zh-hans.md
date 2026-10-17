@@ -4,11 +4,11 @@
 
 [English](README.md) | **简体中文** | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
-## SOCKS5 代理
+## 网络代理
 
 通过远端设备，访问它所在的网络。
 
-![Zeno SOCKS5 代理：通过远端设备访问网络](assets/proxy.png)
+![Zeno 网络代理：通过远端设备访问网络](assets/proxy.png)
 
 ## 端口转发
 
