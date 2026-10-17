@@ -1,6 +1,6 @@
 # Zeno
 
-**Conecta dispositivos y servicios remotos sin una IP pública.**
+**Conecta dispositivos en distintas ubicaciones y accede a recursos remotos.**
 
 [English](README.md) | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | **Español** | [Русский](README.ru.md)
 
@@ -26,7 +26,7 @@ Accede a los dispositivos de una LAN remota mediante una puerta de enlace.
 
 Instala Zeno Daemon tanto en el dispositivo local como en el remoto:
 
-La instalación requiere permisos de administrador para configurar el inicio automático al arrancar el sistema, crear interfaces de red virtuales y configurar las rutas necesarias para la red privada.
+> La instalación requiere permisos de administrador para configurar el inicio automático al arrancar el sistema, crear interfaces de red virtuales y configurar las rutas necesarias para la red privada.
 
 **macOS**
 

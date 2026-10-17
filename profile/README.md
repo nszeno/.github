@@ -1,6 +1,6 @@
 # Zeno
 
-**Connect remote devices and services without a public IP address.**
+**Connect devices across locations and access remote resources.**
 
 **English** | [简体中文](README.zh-hans.md) | [繁體中文](README.zh-hant.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md) | [Русский](README.ru.md)
 
@@ -26,7 +26,7 @@ Access devices on a remote LAN through a gateway.
 
 Install Zeno Daemon on both your local and remote devices:
 
-Installation requires administrator privileges to configure automatic startup at boot and to create virtual network interfaces and configure routes for private networking.
+> Installation requires administrator privileges to configure automatic startup at boot and to create virtual network interfaces and configure routes for private networking.
 
 **macOS**
 
