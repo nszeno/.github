@@ -26,6 +26,8 @@ Access devices on a remote LAN through a gateway.
 
 Install Zeno Daemon on both your local and remote devices:
 
+Installation requires administrator privileges to configure automatic startup at boot and to create virtual network interfaces and configure routes for private networking.
+
 **macOS**
 
 ```sh

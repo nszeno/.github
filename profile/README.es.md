@@ -26,6 +26,8 @@ Accede a los dispositivos de una LAN remota mediante una puerta de enlace.
 
 Instala Zeno Daemon tanto en el dispositivo local como en el remoto:
 
+La instalación requiere permisos de administrador para configurar el inicio automático al arrancar el sistema, crear interfaces de red virtuales y configurar las rutas necesarias para la red privada.
+
 **macOS**
 
 ```sh
