@@ -12,15 +12,15 @@
 
 ## 端口转发
 
-把远端 TCP / UDP 服务，接到本地端口。
+将远端设备可访问的 TCP / UDP 服务映射到本机指定监听地址。
 
 ![Zeno 端口转发：将远端服务映射到本地](assets/forwarding.png)
 
 ## 虚拟组网
 
-通过网关连接异地局域网，访问其中的设备。
+连接异地设备与局域网，建立 P2P 连接后流量直达对端。
 
-![Zeno 虚拟组网：通过网关访问远端网络](assets/networking.png)
+![Zeno 虚拟组网：连接异地设备与局域网](assets/networking.png)
 
 ## 开始使用
 

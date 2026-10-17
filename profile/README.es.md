@@ -12,15 +12,15 @@ Accede a la red de un dispositivo remoto a través de él.
 
 ## Reenvío de puertos
 
-Conecta servicios TCP / UDP remotos a puertos locales.
+Asigna los servicios TCP / UDP accesibles desde un dispositivo remoto a una dirección de escucha especificada en tu dispositivo.
 
 ![Reenvío de puertos de Zeno: asignación de servicios remotos a puertos locales](assets/forwarding.png)
 
 ## Red privada
 
-Accede a los dispositivos de una LAN remota mediante una puerta de enlace.
+Conecta dispositivos y redes LAN remotos. Una vez establecida una conexión P2P, el tráfico fluye directamente al otro dispositivo.
 
-![Red privada de Zeno: acceso a una red remota mediante una puerta de enlace](assets/networking.png)
+![Red privada de Zeno: conexión de dispositivos y redes LAN remotos](assets/networking.png)
 
 ## Primeros pasos
 

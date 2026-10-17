@@ -12,15 +12,15 @@ Access a remote device’s network through that device.
 
 ## Port Forwarding
 
-Map remote TCP / UDP services to local ports.
+Map TCP / UDP services reachable from a remote device to a specified listening address on your device.
 
 ![Zeno Port Forwarding: map remote services to local ports](assets/forwarding.png)
 
 ## Private Networking
 
-Access devices on a remote LAN through a gateway.
+Connect remote devices and LANs. Once a P2P connection is established, traffic flows directly to the peer.
 
-![Zeno Private Networking: access a remote network through a gateway](assets/networking.png)
+![Zeno Private Networking: connect remote devices and LANs](assets/networking.png)
 
 ## Get started
 
