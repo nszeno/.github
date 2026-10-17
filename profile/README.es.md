@@ -6,7 +6,7 @@
 
 ## Proxy de red
 
-Accede a la red de un dispositivo remoto a través de él.
+Usa un dispositivo remoto para acceder a las redes a su alcance.
 
 ![Proxy de red de Zeno: acceso a la red a través de un dispositivo remoto](assets/proxy.png)
 

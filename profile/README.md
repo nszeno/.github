@@ -6,7 +6,7 @@
 
 ## Network Proxy
 
-Access a remote device’s network through that device.
+Use a remote device to access the networks it can reach.
 
 ![Zeno Network Proxy: access a network through a remote device](assets/proxy.png)
 
